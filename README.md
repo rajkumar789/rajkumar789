@@ -45,30 +45,6 @@ With experience across **retail, finance, and tech**, I build automated ETL pipe
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 [Super Store Sales Analysis](https://rajsunar.live/project/super-store-dales-data-analysis/)
-Built an interactive Excel dashboard using Power Query, Power Pivot, and Pivot Tables to analyse retail sales data. Identified top-performing products (Cannon ImageClass 220), regional revenue leaders (West region – 31%), and seasonal trends peaking in December 2017.
-
-### ☕ [Coffee Shop Sales Analysis](https://rajsunar.live/project/coffee-shop-sales-analysis/)
-Analysed 12 months of transactional data to reveal that morning hours (7–10am) generated 61% of daily revenue despite covering only 23% of operating hours — recommending staffing strategies estimated to lift daily revenue by 8–12%.
-
-### ✈️ [Emirates Customer Reviews Analysis](https://rajsunar.live/project/emiarates-customer-reviews-data-analysis/)
-Python-based NLP and sentiment analysis on airline customer review data using Pandas and additional data science libraries.
-
-👉 **[View all projects →](https://rajsunar.live/#projects)**
-
----
-
-## 📝 Recent Articles
-
-- 🤖 [Explainable AI (XAI): Opening the Black Box of Machine Learning](https://rajsunar.live/article/explainable-ai-xai-opening-the-black-box-of-machine-learning/)
-- 📊 [You're Learning the Wrong Thing About Data Visualization](https://rajsunar.live/article/youre-learning-the-wrong-thing-about-data-visualization/)
-- 🚀 [Your Marketing Team Just Got a Robot. Now What?](https://rajsunar.live/article/your-marketing-team-just-got-a-robot-now-what/)
-
-👉 **[Read all articles →](https://rajsunar.live/#articles)**
-
----
 
 ## 🏅 Certifications
 
@@ -80,16 +56,4 @@ Python-based NLP and sentiment analysis on airline customer review data using Pa
 
 ---
 
-## 📬 Let's Connect
 
-Have a dataset that needs exploring or a business question that needs answering?
-
-- 🌐 Portfolio: [rajsunar.live](https://rajsunar.live/)
-- 💼 LinkedIn: [linkedin.com/in/raj-kumar-sunar](https://linkedin.com/in/raj-kumar-sunar-240824221/)
-- 📧 Email: rajkumarsoni280@gmail.com
-
----
-
-<p align="center">
-  <i>Transforming data into actionable insights — every analysis should answer <b>"Why did it happen?"</b> and <b>"What happens next?"</b></i>
-</p>
