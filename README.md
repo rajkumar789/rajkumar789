@@ -21,9 +21,6 @@
 
 ## 🧠 About Me
 
-> *"Data is just the plural of datum — unless you give it meaning."*
-
-I turn messy data into decisions people actually act on. My focus isn't just **"what happened?"** — it's **"what should we do next?"**
 
 With experience across **retail, finance, and tech**, I build automated ETL pipelines, predictive models, and interactive dashboards that drive real business action.
 
