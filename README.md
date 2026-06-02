@@ -12,8 +12,6 @@
 <p align="center">
   <a href="https://rajsunar.live/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rajsunar.live-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/raj-kumar-sunar-240824221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Raj%20Kumar%20Sunar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rajkumar789" target="_blank"><img src="https://img.shields.io/badge/GitHub-rajkumar789-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/Rajkumar_sunar1" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Rajkumar__sunar1-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="mailto:rajkumarsoni280@gmail.com"><img src="https://img.shields.io/badge/Email-rajkumarsoni280@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
