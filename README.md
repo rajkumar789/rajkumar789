@@ -18,10 +18,7 @@
 </p>
 
 ---
-
 ## 🧠 About Me
-
-
 With experience across **retail, finance, and tech**, I build automated ETL pipelines, predictive models, and interactive dashboards that drive real business action.
 
 - 🔧 **6 tools mastered** across the modern data stack
@@ -41,8 +38,6 @@ With experience across **retail, finance, and tech**, I build automated ETL pipe
 | **DevOps** | Git, CI/CD, Version Control |
 
 ---
-
-
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
@@ -52,5 +47,3 @@ With experience across **retail, finance, and tech**, I build automated ETL pipe
 | Associate Data Analyst | DataCamp | 2025 |
 
 ---
-
-
