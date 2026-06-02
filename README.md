@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/69f3513d-1ee3-4517-bce1-1568c1c53d7e/thumbnail" width="120" />
+  <img src="https://api.boot.dev/v1/users/public/69f3513d-1ee3-4517-bce1-1568c1c53d7e/thumbnail" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Raj Kumar Sunar 👋</h1>
