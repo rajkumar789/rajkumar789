@@ -65,15 +65,3 @@ Data Analyst with hands-on experience across **retail, finance, and tech**, turn
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkumar789&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar789&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/raj-kumar-sunar-240824221/">LinkedIn</a> ·
-  <a href="https://rajsunar.live/">Portfolio</a> ·
-  <a href="mailto:rajkumarsoni280@gmail.com">Email</a>
-</p>
